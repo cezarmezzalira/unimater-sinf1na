@@ -15,6 +15,6 @@ public class Exercicio01_ICM {
 
         float imc = peso / (altura * altura);
         System.out.println("Seu IMC é de " + imc);
-        meuScanner.close()
+        meuScanner.close();
     }
 }
