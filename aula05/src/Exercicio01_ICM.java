@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Aula05_ICM {
+public class Exercicio01_ICM {
     public static void main(String[] args) {
         // Formula do IMC
         // IMC = peso / altura²
@@ -15,5 +15,6 @@ public class Aula05_ICM {
 
         float imc = peso / (altura * altura);
         System.out.println("Seu IMC é de " + imc);
+        meuScanner.close()
     }
 }
