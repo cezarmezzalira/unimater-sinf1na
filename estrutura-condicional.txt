@@ -1,0 +1,55 @@
+A = 1
+B = 2
+
+
+A == B
+FALSE  
+
+B = 1
+A == B
+TRUE
+
+A = 5
+A != B
+TRUE
+
+B = 5
+A != B
+FALSE
+
+B < A
+FALSE
+
+A = 2
+B < A
+FALSE
+
+B > A
+TRUE
+
+B <= A
+FALSE
+
+B >= A
+TRUE
+
+# OPERADOR E 
+TRUE && TRUE
+TRUE
+
+TRUE && FALSE
+FALSE
+
+FALSE && FALSE
+FALSE
+
+# OPERADOR OU
+FALSE || TRUE
+TRUE
+
+TRUE || FALSE
+TRUE
+
+FALSE || FALSE
+FALSE
+
