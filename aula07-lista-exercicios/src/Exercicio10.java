@@ -15,5 +15,8 @@ public class Exercicio10 {
         double area = largura * altura;
 
         System.out.printf("A área do retangulo de altura %.2f e largura %.2f é igual a: %.2f", altura, largura, area);
+
+        scanner.close();
+
     }
 }

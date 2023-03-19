@@ -22,5 +22,7 @@ public class Exercicio07 {
         }
 
         System.out.println("O total do seu imposto de renda é: " + total);
+
+        scanner.close();
     }
 }
