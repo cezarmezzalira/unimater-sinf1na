@@ -181,6 +181,5 @@ public class Exercicio01 {
 
         System.out.println("Vagas Ocupadas: " + vagas_ocupadas);
         System.out.println("Vagas Disponíveis: " + vagas_disponiveis);
-        scanner.close();
     }
 }
