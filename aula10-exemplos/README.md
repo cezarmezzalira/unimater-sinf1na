@@ -2,7 +2,7 @@
 
 ## O que é um laço de repetição ou loop
 
-Derivado dos termos em inglês, looping ou loops, laços de repitição são uma estrutura de programação que permite que o programador possa executar um determinado trecho de código várias vezes sem ter que repeti-lo.
+Derivado dos termos em inglês, looping ou loops, laços de repetição são uma estrutura de programação que permite que o programador possa executar um determinado trecho de código várias vezes sem ter que repeti-lo.
 
 Os laços de repetição podem ser classificados como laços iterativos ou interativos. Os laços iterativos executam um número previsto de vezes de forma automática. Já os laços interativos necessitam da intervenção do usuário para repetir a sua execução.
 
