@@ -12,9 +12,10 @@ public class Exemplo02 {
 
             int valor_r = valor_n * 3;
 
-            System.out.println(valor_r);
+            System.out.println("A multiplicação de " + valor_n
+                    + " por 3 é igual a " + valor_r);
 
-            System.out.println("Deseja continuar?");
+            System.out.println("Deseja continuar? (S ou N)");
 
             resposta = scanner.next().charAt(0);
 

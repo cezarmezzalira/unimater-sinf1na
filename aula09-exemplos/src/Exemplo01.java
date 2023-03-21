@@ -6,6 +6,7 @@ public class Exemplo01 {
 
         int i = 1;
 
+        // enquanto (i for menor ou igual a 5) faça
         while (i <= 5) {
             System.out.println("Informe um valor: ");
             int valor_n = scanner.nextInt();
