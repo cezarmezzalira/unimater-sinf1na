@@ -12,5 +12,13 @@ public class Exemplo06 {
         } else {
             System.out.println("Sexo válido");
         }
+
+        // boolean isValid = !(sexo.equals("M") || sexo.equals("F"));
+
+        // if (isValid) {
+        // System.out.println("Sexo inválido");
+        // } else {
+        // System.out.println("Sexo válido");
+        // }
     }
 }
