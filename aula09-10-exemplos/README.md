@@ -52,3 +52,32 @@ Elaborar um programa que efetue a entrada de um valor numérico inteiro qualquer
 - Exemplo 04 - laço interativo
 
 Elaborar um programa que entre um valor numérico inteiro qualquer. Em seguida, calcular o valor de entrada, multiplicando-o por 3 e apresentando seu resultado. Ao final da apresentação do resultado, o programa deve perguntar ao usuário se ele deseja novo cálculo. Se a resposta for diferente de não, deve executar novamente as instruções subordinadas ao bloco adjacente. Se a resposta for não, o programa deve parar a execução.
+
+
+- Exemplo 05 - Laço condicional pós-teste iterativo de condição falsa
+Elaborar um programa que efetue a entrada de um valor numérico inteiro qualquer. Em seguida, calcular o valor entrado, multiplicando-o por 3 e apresentando seu resultado. Proceder à execução dos passos anteriores cinco vezes
+
+- Exemplo 06 - Laço condicional pós-teste interativo de condição falsa
+Elaborar um programa que efetue a entrada de um valor numérico inteiro qualquer. Em seguida, calcular o valor de entrada, multiplicando-o por 3 e apresentando seu resultado. Ao final, o pro-grama deve perguntar ao usuário se ele deseja novo cálculo. Se a resposta for sim, deve executar novamente as instruções subordinadas ao bloco adjacente. Se a resposta for não, o programa deve parar a execução
+
+- Exemplo 07 - Laço condicional pós-teste iterativo de condição verdadeira
+Elaborar um programa que efetue a entrada de um valor numérico inteiro qualquer. Em seguida, calcular o valor de entrada, multiplicando-o por 3 e apresentando seu resultado. Proceder à execução dos passos anteriores cinco vezes
+
+- Exemplo 08 - Laço condicional pós-teste interativo de condição verdadeira
+Elaborar um programa que efetue a entrada de um valor numérico inteiro qualquer. Em seguida, calcular o valor de entrada, multiplicando-o por 3 e apresentando seu resultado. Ao final, o programa deve per-guntar ao usuário se ele deseja novo cálculo. Se a resposta for sim, deve executar novamente as instruções subordinadas ao bloco adjacente. Se a resposta for não, o programa deve parar a execução.
+
+- Exemplo 09 - Laço condicional seletivo (while)
+Elaborar um programa que efetue a entrada de um valor numérico inteiro qualquer. Em seguida, calcular o valor de entrada, multiplicando-o por 3 e apresentando seu resultado. Se o passo for maior que 4, finalize a execução. Proceder à execução dos passos anteriores cinco vezes. 
+
+- Exemplo 10 - Laço incondicional (for)
+Elaborar um programa que efetue a entrada de um valor numérico inteiro qualquer. Em seguida, calcular o valor entrado, multiplicando-o por 3 e apresentando seu resultado. Proceder à execução dos passos anteriores cinco vezes
+
+## Exercícios
+
+1- Faça um programa que simule um jogo de adivinhação. O programa deve gerar um número aleatório entre 1 e 100, e pedir para o usuário tentar adivinhar o número. A cada tentativa do usuário, o programa deve informar se o número a ser adivinhado é maior ou menor do que o número informado pelo usuário. O jogo termina quando o usuário acerta o número. 
+
+2 - Faça um programa que calcule a média de um conjunto de números informados pelo usuário. O programa deve continuar pedindo números até que o usuário informe um valor negativo.
+
+3 - Faça um programa que peça ao usuário para digitar um número e imprima a tabuada desse número até 10.
+
+4 - Faça um programa que peça ao usuário para digitar uma palavra e verifique se essa palavra é um palíndromo (ou seja, se pode ser lida da mesma forma da esquerda para a direita e da direita para a esquerda).
